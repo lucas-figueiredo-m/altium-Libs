@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JTGUFXAU
 
 [Document3]
-DocumentPath=ES1 Series.SchLib
+DocumentPath=..\ES1 Series.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WRDQUFWQ
 
 [Document4]
-DocumentPath=ES1 Series.PcbLib
+DocumentPath=..\ES1 Series.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
