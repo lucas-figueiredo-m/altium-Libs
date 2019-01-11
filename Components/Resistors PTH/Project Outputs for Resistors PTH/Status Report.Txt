@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Resistors PTH.LibPkg]
+   Generated File[Novo Carregador Taua.TXT]
+   Generated File[Novo Carregador Taua.LDP]
+   Generated File[Novo Carregador Taua.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:22:16 On 18/12/2018
