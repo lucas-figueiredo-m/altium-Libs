@@ -105,6 +105,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYQTGYMW
 
+[Document5]
+DocumentPath=LED 2835.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RIRXWCRE
+
+[Document6]
+DocumentPath=LED 2835.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YKSLBNKK
+
 [SearchPath1]
 Path=G:\Meu Drive\ICE\Eletrônica\Libraries Altium\Novas Bibliotecas - Atualizado\LEDs\*.*
 IncludeSubFolders=1
